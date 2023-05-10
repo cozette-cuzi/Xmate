@@ -6,3 +6,5 @@ Then users can post about what they are looking for, and people with similar int
 ## Technical Overview
 The application is build with **Laravel PHP** for the backend, and **Vue.js** for the frontend.
 Besides that it has a model built with **Python**, which is being connected to the backend through an API built with Python as well.
+
+Postman link: [here](https://www.postman.com/restless-comet-2655/workspace/xmate/folder/10679146-2825c6b7-6fa6-46dd-ae90-4009fec8a773?ctx=documentation)
